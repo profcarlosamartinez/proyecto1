@@ -1,0 +1,9 @@
+Flask
+flask-smorest
+python-dotenv
+marshmallow
+flask-marshmallow
+sqlalchemy
+marshmallow-sqlalchemy
+flask-sqlalchemy
+mysql-connector-python==8.0.27
