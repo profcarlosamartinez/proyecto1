@@ -45,5 +45,6 @@ for order in orders:
     for item in order.items:
         print(f'Elemento: {item.name}')
 
+print('cierre de sesion')
 # Cierre de la sesión
 session.close()
